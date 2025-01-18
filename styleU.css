@@ -1,0 +1,37 @@
+
+body{
+
+    margin:0px;
+    padding: 0px;
+    background: url('WhatsApp Image 2024-04-20 at 3.49.55 PM (6).jpeg') no-repeat;
+    background-size: cover; 
+    background-position: center;
+}
+.form
+{
+    background-color: rgba(240, 248, 255, 0.575);
+    width:400px;
+    height: 100%;
+
+}
+.form{
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 10%;
+   
+    
+}
+.uB{
+    width: 20%;
+    height: 5vh;
+    background-color: gold;
+}
+.de{
+    width: 20%;
+    height: 5vh;
+    background-color: gold;
+}
+
+
+
+

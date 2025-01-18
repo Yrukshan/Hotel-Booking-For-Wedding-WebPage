@@ -1,0 +1,115 @@
+/* Main Division */
+
+.hotelReservation{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+/* Body */
+
+body{
+    background-color: blue;
+    height: 100vh;
+    width: 100%;
+    background: url('./Img/c7e403ad0ee75e67b908a5033269812f.jpg' ) no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+/* H3 */
+
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Form */
+
+.form{
+    
+    font-size: large;
+    margin: 6% 10%;
+    background-color:aqua;
+    background: transparent;
+    color:black;
+    padding-left: 55%;
+    
+}
+
+/* Image 
+
+.image{
+    width: 50%;
+    float: right;
+    
+    background-color: chartreuse;
+    
+    
+} */
+
+/* Function Type */ 
+
+.functionTypes{
+    width: 50%;
+    float: left;
+}
+
+/* Function Time */
+
+.functionTimes{
+    width: 50%;
+    float: right;
+}
+
+/* Text */
+
+.text{
+    border: none;
+    border-bottom: 4px solid black;
+    background-color:white;
+    width: 400px;
+
+}
+
+
+.reservationID{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    background: transparent;
+}
+
+/* Text Borde and Label*/
+
+.form input:focus ~ label,
+.form input:valid ~ label{
+    top:-12px;
+    font-size:12px;
+}
+
+/* Rest Button */
+
+.resetButton{
+    width: 100%;
+    height: 5vh;
+    background-color: gold;
+}
+
+/* Submit Button */
+
+.submitButton{
+    width: 100%;
+    height: 5vh;
+    background-color: gold;
+}
+
+.uButton{
+    width: 100%;
+    height: 5vh;
+    background-color: gold;
+}
+
+.de{
+    width: 100%;
+    height: 5vh;
+    background-color: gold;
+}
